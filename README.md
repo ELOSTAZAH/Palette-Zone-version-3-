@@ -89,8 +89,8 @@ class DrawingApp:
         
         # License information
         self.license_info = {
-            "owner": "Your Name",
-            "email": "your@email.com",
+            "owner": "HodaMostafaHamdyAly",
+            "email": "elostazahx@email.com",
             "license": "Open Educational Resource - Free for non-commercial use"
         }
         
